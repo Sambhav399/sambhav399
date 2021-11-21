@@ -8,3 +8,10 @@ Hi, I’m ***Sambhav Sharma***. A meticulous frontend developer & designer with 
 ## How to reach me
 * 🔗 I have a personal website at [Sambhav Sharma](http://sambhavsharma.netlify.app/) where all my things are located! You can reach me anytime over there!
 * 📫 Mail me anytime [sambhavsharma@gmail.com](mailto:sambhavsharma@gmail.com?subject=[From%20Github]%20Readme)
+
+#### Tech Stack
+- HTML *- 3years*
+- CSS/SCSS *- 3years*
+- JavaScript *- 1years*
+- React JS *- 1years*
+- React Native *- 1years*
